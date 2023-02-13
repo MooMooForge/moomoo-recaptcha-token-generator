@@ -1,12 +1,12 @@
 {
   "version": "1.0.2",
   "dependencies": {
+    "moomoo-recaptcha-token-generator": "^1.0.3",
     "puppeteer": "^19.7.0"
   },
   "name": "moomoo-recaptcha-token-generator",
   "description": "A recaptcha token generator for Moomoo.io",
-  "main": "example.js",
-  "devDependencies": {},
+  "main": "./src/Generator.js",
   "scripts": {
     "test": "node example.js"
   },

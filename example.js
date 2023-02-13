@@ -1,7 +1,9 @@
-const { generateToken } = require("./src/Generator.js");
+const Generator = require("moomoo-recaptcha-token-generator");
 
 async function run() {
-    const token = await generateToken();
+    const token = await Generator.generateToken({
+        debug: true
+    });
     console.log(token)
 }
 
