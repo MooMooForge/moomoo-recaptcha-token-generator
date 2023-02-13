@@ -1,0 +1,29 @@
+{
+  "version": "1.0.2",
+  "dependencies": {
+    "puppeteer": "^19.7.0"
+  },
+  "name": "moomoo-recaptcha-token-generator",
+  "description": "A recaptcha token generator for Moomoo.io",
+  "main": "example.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MooMooForge/moomoo-recaptcha-token-generator.git"
+  },
+  "keywords": [
+    "moomoo",
+    "moomoo-io",
+    "recaptcha",
+    "token-generator"
+  ],
+  "author": "Nuro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MooMooForge/moomoo-recaptcha-token-generator/issues"
+  },
+  "homepage": "https://github.com/MooMooForge/moomoo-recaptcha-token-generator#readme"
+}
