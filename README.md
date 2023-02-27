@@ -50,4 +50,3 @@ The generateToken function takes the following options:
 - `action` (String, default `"homepage"`): The reCAPTCHA action to perform.
 - `sitekey` (String, default `"6LevKusUAAAAAAFknhlV8sPtXAk5Z5dGP5T2FYIZ"`): The reCAPTCHA site key.
 - `debug` (Boolean, default `false`): Whether to display debug information about puppeteer states.
-

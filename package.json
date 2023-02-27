@@ -1,7 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "2.1.0",
   "dependencies": {
-    "moomoo-recaptcha-token-generator": "^1.0.3",
     "puppeteer": "^19.7.0"
   },
   "name": "moomoo-recaptcha-token-generator",
